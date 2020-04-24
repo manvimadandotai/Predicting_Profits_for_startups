@@ -5,4 +5,4 @@ Predicting profits for startups based on features such as Marketing Spend, Admin
 [Python](https://www.python.org/downloads/)
 
 ### Install the requirements using the command:
-`pip3 intsall`
+`pip3 intsall -r requirements.txt`
